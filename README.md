@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* <a href="https://www.petekeen.net">Blog</a>
+* <a href="https://hachyderm.io/@zrail" rel="me">Mastodon</a>
